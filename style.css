@@ -1,0 +1,58 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.container{
+    width: 250px;
+    background-color:  hsl(215, 65%, 15%);
+    margin: 5px;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+
+.p2{
+    color: rgb(230, 235, 240);
+}
+
+
+
+.container img{
+    width: 250px;
+}
+
+.container .img2{
+    width: 40px;
+}
+
+
+h3{
+    color: aqua;
+}
+
+
+p{
+    color: hsl(215, 51%, 70%);
+}
+
+
+h2{
+    color: aliceblue;
+}
+
+
+.line{
+    border: 1px solid rgba(3, 46, 110, 0.671);
+}
+
+
+
+
+
+
